@@ -2,4 +2,4 @@
 - 👀 I’m interested in 🎮
 - 🌱 I’m currently learning ₿
 - 💞️ I’m looking to collaborate on ⧫
-- 📫 Reach me +923234217870
+- 📫 Reach me on +923234217870
