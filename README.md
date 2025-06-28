@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+Developer+%7C+Software+Engineer;Backend+Enthusiast+%7C+API+Designer;Clean+Code+%7C+Open+Source+%7C+Tech+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+Developer+%7C+Software+Engineer;Clean+Code+%7C+Open+Source+%7C+Tech+Learner" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.deta.dev/badge?page_id=Officialali15.visitor-badge" alt="visitor badge" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -18,8 +13,7 @@ Hi, I'm **Muhammad Ali**, a passionate **Python Developer** and **Software Engin
 - 📘 Currently learning **Machine Learning**, **Docker**, and **Celery**
 - 🧠 Always improving my skills in **System Design** and **DevOps basics**
 - 💬 Ask me about anything Python, web development, or how to debug like a pro!
-- 📫 Reach me at: **+92 323 4217870** | [Instagram](https://www.instagram.com/muhammad.ali_official/)
-
+- 📫 Reach me at: **+92 323 4217870**
 ---
 
 ### 🛠️ Tech Stack
@@ -54,15 +48,6 @@ Here are some of my projects that show my passion for solving real-world problem
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Officialali15&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Officialali15&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 <p align="left">
@@ -70,9 +55,3 @@ Here are some of my projects that show my passion for solving real-world problem
   <a href="https://stackoverflow.com/users/18237368/muhammad-ali" target="blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://www.facebook.com/official.m.ali/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
----
-
-### 🧠 Fun Fact
-
-> “First, solve the problem. Then, write the code.” – John Johnson
