@@ -1,69 +1,47 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+Developer+%7C+Software+Engineer;Backend+Enthusiast+%7C+API+Designer;Clean+Code+%7C+Open+Source+%7C+Tech+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Python+Developer;Software+Engineer;Backend+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.deta.dev/badge?page_id=Officialali15.visitor-badge" alt="visitor badge" />
+  <img src="https://visitor-badge.deta.dev/badge?page_id=Officialali15" alt="visitor badge" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-Hi, I'm **Muhammad Ali**, a passionate **Python Developer** and **Software Engineer** who loves turning complex problems into clean, scalable, and maintainable code. I'm dedicated to backend engineering and API development, with a strong focus on learning new technologies and contributing to open source.
-
-- 🔭 I’m currently building backend APIs with **FastAPI**, **Django**, and **Flask**
-- 💼 Strong understanding of **OOP**, **RESTful APIs**, and **Software Design Patterns**
-- 📘 Currently learning **Machine Learning**, **Docker**, and **Celery**
-- 🧠 Always improving my skills in **System Design** and **DevOps basics**
-- 💬 Ask me about anything Python, web development, or how to debug like a pro!
-- 📫 Reach me at: **+92 323 4217870** | [Instagram](https://www.instagram.com/muhammad.ali_official/)
+- 🔭 I’m currently working on **Python-based backend systems** and exploring **FastAPI** & **Django**  
+- 🌱 I’m currently learning **Machine Learning & API Development**  
+- 💬 Ask me about **Python, REST APIs, Flask, Django, and automation**  
+- 📫 Reach me via: **+92 323 4217870** or **[Instagram](https://www.instagram.com/muhammad.ali_official/)**  
+- ⚡ Fun fact: I love debugging and breaking down complex problems into clean Pythonic code.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-#### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🧱 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🛢️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### ⚙️ Dev Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-Here are some of my projects that show my passion for solving real-world problems with Python:
-
-- 🔗 [Flask REST API Boilerplate](https://github.com/Officialali15?tab=repositories&q=flask)
-- 🔗 [Django Blog Backend](https://github.com/Officialali15?tab=repositories&q=blog)
-- 🔗 [Python Automation Tools](https://github.com/Officialali15?tab=repositories&q=automation)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Officialali15&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Officialali15&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Officialali15&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Officialali15&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🌍 Connect with Me
 
 <p align="left">
   <a href="https://www.instagram.com/muhammad.ali_official/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -73,9 +51,12 @@ Here are some of my projects that show my passion for solving real-world problem
 
 ---
 
-### 🧠 Fun Fact
+### 📌 Featured Projects
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+- [🔗 Python Automation Scripts](https://github.com/Officialali15?tab=repositories&q=automation)
+- [🔗 Flask/Django Projects](https://github.com/Officialali15?tab=repositories&q=django)
+- [🔗 API Development Samples](https://github.com/Officialali15?tab=repositories&q=api)
 
 ---
 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
