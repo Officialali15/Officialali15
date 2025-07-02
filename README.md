@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+Developer+%7C+Software+Engineer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
